@@ -1,0 +1,10 @@
+#calculate Farenheit to Celsius
+
+print("This program calculates farenheit to celsius.")
+
+degree_farenheit = input("farenheit:")
+degree_farenheit = float(degree_farenheit)
+ 
+celsius = (degree_farenheit - 32) * 5 / 9
+
+print("Degree celsius:",celsius)

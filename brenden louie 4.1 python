@@ -1,0 +1,41 @@
+for my_variable in range(5):
+    print("please")
+    print("can i go to the mall")
+    
+for i in range(10):
+    print(i)
+
+
+# Print the numbers 1 to 10.
+for i in range(10):
+    print(i + 1)
+
+
+# Two ways to print the even numbers 2 to 10
+for i in range(2,12,2):
+    print(i)
+ 
+for i in range(5):
+    print((i + 1) * 2)
+
+
+
+
+
+for i in range(5):
+    print("I will not chew gum in class.")
+    
+    # Two ways to print the even numbers 2 to 10
+for i in range(2,12,2):
+    print(i)
+ 
+for i in range(5):
+    print((i + 1) * 2)
+
+# What does this print? Why?
+for i in range(3):
+    print("a")
+    for j in range(3):
+        print("b")
+ 
+print("Done")
